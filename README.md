@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏻, I'm Balaji</h1>
 <h3 align="center">A passionate web developer and programmer</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bala2001" alt="lokeshsenthilkumar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bala2001" alt="balaji" /> </p>
 
 
 <img src="https://github.com/lokeshsenthilkumar/lokeshsenthilkumar/blob/master/linkedin_banner.png" />
